@@ -10,9 +10,6 @@ import java.io.*;
  */
 public class ResistivitySimulator{
 
-    private Integer[][] array;
-
-
     public void start() throws Exception {
         FileHelper fileHelper = new FileHelper();
         ResistivityCaller caller = new ResistivityCaller();

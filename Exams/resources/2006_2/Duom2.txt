@@ -1,0 +1,7 @@
+6 70 10 15
+Elektrënai     50.5
+Þieþmariai     20
+Kaunas         22.35
+Raseiniai      80
+Kryþkalnis     20
+Klaipëda       100.8
